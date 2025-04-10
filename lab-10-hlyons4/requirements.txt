@@ -1,0 +1,7 @@
+pandas
+zipfile36
+plotly
+matplotlib
+seaborn
+requests
+streamlit
